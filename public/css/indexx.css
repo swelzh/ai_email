@@ -1,0 +1,86 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: "Helvetica Neue", "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+.head {
+  text-align: right;
+  height: 60px;
+  line-height: 60px;
+  padding: 0 350px;
+}
+
+.head a {
+  color: #666666;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.text1 {
+  padding-top: 30px;
+  font-size: 48px;
+  line-height: 60px;
+  color: #ffffff;
+}
+
+.text2 {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.img {
+  margin-top: 20px;
+  width: 400px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.line1 {
+  background-image: url("../img/bannerx.png");
+}
+.line1 .app {
+  display: block;
+  width: 197px;
+  height: auto;
+  margin: 20px auto 0;
+}
+.line2 {
+  background: white;
+}
+.line2 .text1,
+.line2 .text2 {
+  color: #28223c;
+}
+.line3 {
+  background: linear-gradient(
+    -45deg,
+    rgba(0, 187, 255, 1) 0%,
+    rgba(33, 113, 242, 1) 100%
+  );
+}
+.line4 {
+  padding: 40px;
+  background: #181f37;
+}
+.line4 .item {
+  width: 200px;
+  margin: auto;
+}
+.line4 .title1 {
+  text-align: left;
+  margin-bottom: 20px;
+  font-size: 1.25rem;
+  color: #ffffff;
+}
+.line4 .title2 {
+  display: block;
+  text-align: left;
+  margin-top: 5px;
+  color: #969696;
+  font-size: 16px;
+  text-decoration: none;
+}
